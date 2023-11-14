@@ -1,15 +1,17 @@
 {
-  "Name": "Driving with Autonomous Aids",
-  "License": "CC0",
-  "Authors": [
-    "Jason Metcalfe",
-    "Amar Marathe",
-    "Tony Johnson",
-    "Stephen Gordon",
-    "Jon Touryan",
-	"Kevin King"
-  ],
-  "ReferencesAndLinks": [""],
-  "BIDSVersion": "1.8.0",
-  "HEDVersion": "8.1.0"
+    "Name": "Driving with Autonomous Aids",
+    "License": "CC0",
+    "Authors": [
+        "Jason Metcalfe",
+        "Amar Marathe",
+        "Tony Johnson",
+        "Stephen Gordon",
+        "Jon Touryan",
+        "Kevin King"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0"
 }
